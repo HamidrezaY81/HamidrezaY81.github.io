@@ -150,6 +150,11 @@ ninja.data = [{
           description: "Information about C++.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cpp/";
+            },},{id: "projects-java",
+          title: 'Java',
+          description: "Information about Java.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/java/";
             },},{id: "projects-python",
           title: 'python',
           description: "Information about Python.",
