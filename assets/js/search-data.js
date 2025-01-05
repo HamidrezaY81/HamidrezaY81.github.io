@@ -79,11 +79,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-the-beauty-of-mathematics",
+            },{id: "post-integral",
       
-        title: "The Beauty of Mathematics",
+        title: "Integral",
       
-      description: "A post about the beauty of mathematics",
+      description: "A post about the Integral",
       section: "Posts",
       handler: () => {
         
@@ -101,9 +101,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/image/";
         
       },
-    },{id: "post-merge-sort",
+    },{id: "post-print-in-c",
       
-        title: "Merge sort",
+        title: "Print in C++",
       
       description: "A post about merge sort by C language",
       section: "Posts",
