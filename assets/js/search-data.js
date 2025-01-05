@@ -90,9 +90,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/math/";
         
       },
-    },{id: "post-loving-your-country",
+    },{id: "post-computer-engineering-school",
       
-        title: "Loving Your Country",
+        title: "Computer Engineering school",
       
       description: "CE",
       section: "Posts",
