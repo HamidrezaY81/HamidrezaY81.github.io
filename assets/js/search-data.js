@@ -90,11 +90,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/math/";
         
       },
-    },{id: "post-image",
+    },{id: "post-loving-your-country",
       
-        title: "Image",
+        title: "Loving Your Country",
       
-      description: "",
+      description: "CE",
       section: "Posts",
       handler: () => {
         
