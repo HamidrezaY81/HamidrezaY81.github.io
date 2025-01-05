@@ -81,13 +81,24 @@ ninja.data = [{
               },
             },{id: "post-math",
       
-        title: "Math",
+        title: "math",
+      
+      description: "formatting code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/math/";
+        
+      },
+    },{id: "post-image",
+      
+        title: "Image",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/math/";
+          window.location.href = "/blog/2025/image/";
         
       },
     },{id: "post-code",
