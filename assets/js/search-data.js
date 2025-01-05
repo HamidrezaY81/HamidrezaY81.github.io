@@ -101,9 +101,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/image/";
         
       },
-    },{id: "post-print-in-c",
+    },{id: "post-merge-sort",
       
-        title: "Print in C++",
+        title: "Merge sort",
       
       description: "A post about merge sort by C language",
       section: "Posts",
