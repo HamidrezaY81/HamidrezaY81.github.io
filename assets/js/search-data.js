@@ -145,7 +145,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-python",
+          section: "News",},{id: "projects-c",
+          title: 'C++',
+          description: "Information about C++.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cpp/";
+            },},{id: "projects-python",
           title: 'python',
           description: "Information about Python.",
           section: "Projects",handler: () => {
