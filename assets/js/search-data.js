@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-math",
-      
-        title: "math",
-      
-      description: "formatting code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/math/";
-        
-      },
-    },{id: "post-image",
+            },{id: "post-image",
       
         title: "Image",
       
@@ -110,6 +99,17 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+        
+      },
+    },{id: "post-the-beauty-of-mathematics",
+      
+        title: "The Beauty of Mathematics",
+      
+      description: "A post about the beauty of mathematics",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/math/";
         
       },
     },{id: "post-merge-sort",
